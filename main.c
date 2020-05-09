@@ -1,6 +1,6 @@
 /**
     * c program to print pascal triangles of different forms
-    * replace %4d to %2d or any other value if the
+    * replace %4d to %2d or any other value to change width if the
     * triangle patterns does not appear as they should.
     *
     */
